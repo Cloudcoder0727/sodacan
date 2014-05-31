@@ -1,0 +1,36 @@
+.header {
+	background-color: grey;
+	height: 100px;
+	width:700px;
+	z-index: 1.0;
+	
+}
+
+.right {
+	background-color: grey;
+	width:200px;
+	height:700px;
+	position: relative;
+	float:right;
+}
+
+.left {
+	background-color: grey;
+	width:200px;
+	height:700px;
+	position: relative;
+	float:left;
+}
+
+.footer {
+	background-color: grey;
+	width:200px;
+	height:700px;
+	position: relative;
+	clear:both;
+
+}
+
+body {
+	background:brown;
+}
